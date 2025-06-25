@@ -18,7 +18,7 @@ This project uses real-world FIFA match data and team rankings to predict intern
 
 ## 📁 Dataset
  [`results.csv`](https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017)
-- [`fifa_ranking`]([https://www.kaggle.com/datasets/tadhgfitzgerald/fifa-world-ranking](https://www.kaggle.com/datasets/cashncarry/fifaworldranking))
+- [`fifa_ranking`](https://www.kaggle.com/datasets/cashncarry/fifaworldranking)
 
 ## Future Steps
 - Create a frontend for the predicitions
