@@ -17,7 +17,7 @@ This project uses real-world FIFA match data and team rankings to predict intern
 - Python, pandas, scikit-learn, seaborn, matplotlib, datetime
 
 ## 📁 Dataset
- [`results.csv`](https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017)
+- [`results.csv`](https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017)
 - [`fifa_ranking`](https://www.kaggle.com/datasets/cashncarry/fifaworldranking)
 
 ## Future Steps
